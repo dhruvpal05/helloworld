@@ -1,0 +1,9 @@
+TXT files are useful for
+storing information in
+plain text with no special
+formatting beyond basic fonts
+and font styles. The file is
+commonly used for recording
+notes, directions, and other
+similar documents that do not
+need to appear a certain way
